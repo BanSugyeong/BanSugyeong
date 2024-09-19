@@ -1,9 +1,7 @@
-# 🌈⭐Introduction⭐🌈
-안녕하세요! 준비된 신입 데이터분석가 반수경입니다.
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&text=Sugyeong's&nbsp;Github&fontColor=999999&section=header" />
 
+# 🌈⭐Introduction⭐🌈
+안녕하세요! 준비된 신입 데이터분석가 반수경입니다.
 
 # 🛠️Skill Stack
 ### 📌AI&DA
