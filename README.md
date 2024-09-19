@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CCCCFF8&height=150&text=Sugyeong's&nbsp;Github&fontColor=99CCFF&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=150&text=Sugyeong's&nbsp;Github&fontColor=9999CC&section=header" />
 
 # 🌈⭐Introduction⭐🌈
 <b>안녕하세요! 준비된 신입 데이터분석가 반수경입니다.</b><br/>
@@ -38,4 +38,4 @@
 # 🌿Blog
 [Gangee's Program](https://sugyeong0425.tistory.com/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CCCCFF8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=150&section=footer" />
