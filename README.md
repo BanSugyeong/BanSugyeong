@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BanSugyeong)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## Blog
+[Gangee's Program](https://sugyeong0425.tistory.com/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
