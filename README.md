@@ -1,28 +1,11 @@
-## Hi there 👋
-
-<!--
-**BanSugyeong/BanSugyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 🌈⭐Introduction⭐🌈
+# 🌈⭐Introduction⭐🌈
 안녕하세요! 준비된 신입 데이터분석가 반수경입니다.
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&text=Sugyeong's&nbsp;Github&fontColor=999999&section=header" />
 
 
-## 🛠️Skill Stack
+# 🛠️Skill Stack
 ### 📌AI&DA
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -51,7 +34,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BanSugyeong)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🌿Blog
+# 🌿Blog
 [Gangee's Program](https://sugyeong0425.tistory.com/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
