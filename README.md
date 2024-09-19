@@ -15,26 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🌈⭐Introduction⭐🌈
+안녕하세요! 준비된 신입 데이터분석가 반수경입니다.
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&text=Sugyeong's&nbsp;Github&fontColor=999999&section=header" />
 
 
-## Skill Stack
-### AI&DA
+## 🛠️Skill Stack
+### 📌AI&DA
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### DataBase
+### 📌DataBase
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Front&Back
+### 📌Front&Back
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Management
+### 📌Management
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -47,7 +51,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BanSugyeong)](https://github.com/anuraghazra/github-readme-stats)
 
-## Blog
+## 🌿Blog
 [Gangee's Program](https://sugyeong0425.tistory.com/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
